@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tzssangglass&show_icons=true&theme=gotham)
+
+[![GitHub Thaiane](https://img.shields.io/github/followers/tzssangglass?label=follow&style=social)](https://github.com/tzssangglass)
+
