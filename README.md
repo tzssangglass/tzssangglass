@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/tzssangglass?label=follow&style=social)](https://github.com/tzssangglass)
 
-[Blog](https://jared-says.cn/)
+[Blog](https://juejin.cn/user/1257497033967165/posts)
