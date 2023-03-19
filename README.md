@@ -13,7 +13,7 @@
 
 I used to get paid for my work in open source projects.
 
-- 2021.4 - 2023.1: [api7.ai](https://api7.ai/). (Apache APISIX PMC)
+- 2021.4 - 2023.1: [api7.ai](https://api7.ai/).
 - 2023.1 - now: rest and study
 
 ## Projects
