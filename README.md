@@ -36,4 +36,4 @@ Projects that I have worked on and continue to keep an eye on:
 
 ## Open Source Achievements
 
-- A menber of Apache APISIX PMC
+- A member of Apache APISIX PMC
